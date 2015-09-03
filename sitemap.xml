@@ -54,6 +54,12 @@
     
         
     <url>
+     <loc>http://hacktheweather.github.io/howtos/analyzing-weather-data/</loc>
+     <lastmod>2015-09-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>http://hacktheweather.github.io/howtos/sharing-data-notebooks/</loc>
      <lastmod>2015-09-03</lastmod>
      <changefreq>daily</changefreq>
@@ -73,12 +79,6 @@
         
     <url>
      <loc>http://hacktheweather.github.io/howtos/submit-code/</loc>
-     <lastmod>2015-09-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://hacktheweather.github.io/howtos/analyzing-weather-data/</loc>
      <lastmod>2015-09-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
