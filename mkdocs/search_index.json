@@ -77,7 +77,7 @@
         }, 
         {
             "location": "/howtos/install-libs/", 
-            "text": "R\n\n\nUse \ninstall.packages()\n in a R notebook, as shown in the example below.\n\n\ninstall.packages(\nyaml\n, repos=\nhttp://cran.stat.ucla.edu\n)\n\n\n\n\nPython\n\n\nOpen a Python notebook and use \npip\n to install Python packages, as shown below.\n\n\n!pip install vincent\n\n\n\n\nScala\n\n\nAdding new JARs is not officially supported at this time. If you need to do so, please send a direct message to Henrique Zambon on Slack.", 
+            "text": "R\n\n\nUse \ninstall.packages()\n in a R notebook, as shown in the example below.\n\n\ninstall.packages(\nyaml\n, repos=\nhttp://cran.stat.ucla.edu\n)\n\n\n\n\nPython\n\n\nOpen a Python notebook and use \npip\n to install Python packages, as shown below.\n\n\n!pip install vincent\n\n\n\n\nScala\n\n\nAdding new JARs is not officially supported at this time.", 
             "title": "Install Libraries"
         }, 
         {
@@ -92,7 +92,7 @@
         }, 
         {
             "location": "/howtos/install-libs/#scala", 
-            "text": "Adding new JARs is not officially supported at this time. If you need to do so, please send a direct message to Henrique Zambon on Slack.", 
+            "text": "Adding new JARs is not officially supported at this time.", 
             "title": "Scala"
         }, 
         {
